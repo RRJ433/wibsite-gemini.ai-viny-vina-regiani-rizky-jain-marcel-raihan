@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>SD Cerdas Mandiri - Masa Depan Cerah Dimulai di Sini</title>
+    <link rel="stylesheet" href="style.css">
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600;700&display=swap" rel="stylesheet">
+</head>
+<body>
+
+    <header class="hero">
+        <div class="container">
+            <h1>Masa Depan Cerah Dimulai di Sini: SD Cerdas Mandiri</h1>
+            <p class="subtitle">Menciptakan generasi unggul yang cerdas, kreatif, dan berkarakter mulia melalui kurikulum berbasis inovasi.</p>
+            <div class="cta-group">
+                <a href="#pendaftaran" class="btn btn-primary">Daftar Sekarang! (TA 2025/2026 Dibuka!)</a>
+                <a href="#keunggulan" class="btn btn-secondary">Jelajahi Sekolah Kami</a>
+            </div>
+            <div class="hero-image-placeholder">
+                
+            </div>
+        </div>
+    </header>
+
+    <section id="keunggulan" class="features">
+        <div class="container">
+            <h2>Mengapa SD Cerdas Mandiri?</h2>
+            <div class="feature-grid">
+                <div class="feature-item">
+                    <h3>Kurikulum Terkini</h3>
+                    <p>Mengintegrasikan STEAM (Science, Technology, Engineering, Arts, Mathematics) dan Pendidikan Karakter.</p>
+                </div>
+                <div class="feature-item">
+                    <h3>Guru Berdedikasi</h3>
+                    <p>Staf pengajar profesional dengan pengalaman rata-rata 10+ tahun, terlatih dalam metode pengajaran modern.</p>
+                </div>
+                <div class="feature-item">
+                    <h3>Fasilitas Modern</h3>
+                    <p>Laboratorium Komputer, Ruang Seni, Lapangan Olahraga Indoor & Perpustakaan Digital.</p>
+                </div>
+                <div class="feature-item">
+                    <h3>Pengembangan Bakat</h3>
+                    <p>Klub Robotik, Musik Tradisional, Public Speaking, dan Sepak Bola untuk mengasah potensi anak.</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section class="social-proof">
+        <div class="container">
+            <h2>Prestasi dan Testimoni</h2>
+            <div class="testimony">
+                <blockquote class="quote">
+                    "Anak saya menjadi lebih percaya diri dan sangat menikmati proses belajar. Guru-gurunya sangat sabar dan suportif!"
+                </blockquote>
+                <p class="source">- Ibu Rina Wulandari, Orang Tua Siswa Kelas 3</p>
+            </div>
+            
+            <div class="achievements">
+                <h3>Prestasi Sekolah (Tahun Ajaran Lalu)</h3>
+                <ul>
+                    <li>🏆 Juara 1 Olimpiade Sains Tingkat Kota</li>
+                    <li>🌳 Penghargaan Sekolah Hijau Tingkat Provinsi</li>
+                    <li>💯 100% Kelulusan dengan nilai rata-rata tertinggi</li>
+                </ul>
+            </div>
+        </div>
+    </section>
+
+    <section id="pendaftaran" class="steps">
+        <div class="container">
+            <h2>Proses Pendaftaran Mudah dalam 3 Langkah</h2>
+            <div class="step-grid">
+                <div class="step-item">
+                    <span class="step-number">1</span>
+                    <h3>Isi Formulir Online</h3>
+                    <p>Kunjungi portal pendaftaran kami dan lengkapi data yang diperlukan.</p>
+                </div>
+                <div class="step-item">
+                    <span class="step-number">2</span>
+                    <h3>Verifikasi Dokumen</h3>
+                    <p>Jadwalkan wawancara singkat dan serahkan dokumen yang diminta.</p>
+                </div>
+                <div class="step-item">
+                    <span class="step-number">3</span>
+                    <h3>Pengumuman & Pembayaran</h3>
+                    <p>Dapatkan notifikasi penerimaan resmi dan selesaikan administrasi.</p>
+                </div>
+            </div>
+            <a href="#" class="btn btn-primary large">Mulai Pendaftaran Sekarang</a>
+        </div>
+    </section>
+
+    <section class="final-cta">
+        <div class="container">
+            <h2>Jangan Tunda Lagi! Kuota Terbatas!</h2>
+            <p>Hubungi (021) 123-4567 atau email info@sdcerdasmandiri.sch.id</p>
+        </div>
+    </section>
+
+    <footer>
+        <div class="container">
+            <div class="footer-nav">
+                <a href="#">Profil Sekolah</a> |
+                <a href="#">Kurikulum</a> |
+                <a href="#">Fasilitas</a> |
+                <a href="#">Kontak</a>
+            </div>
+            <p class="address">Alamat Lengkap: Jl. Pendidikan No. 10, Jakarta Pusat 10220</p>
+            <div class="social-icons">
+                <a href="#">[FB]</a>
+                <a href="#">[IG]</a>
+                <a href="#">[YT]</a>
+            </div>
+            <p class="copyright">&copy; 2025 SD Cerdas Mandiri. All Rights Reserved.</p>
+        </div>
+    </footer>
+
+</body>
+</html>
